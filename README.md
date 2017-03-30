@@ -1,7 +1,7 @@
-# MeForma!
+# R-you
 
-O MeForma! é um aplicativo GRATUITO de acompanhamento e gerenciamento online de vida acadêmica, que proporciona uma experiência diferente e eficiente pra quem não quer ter dor de cabeça na hora de se formar.
+O R-you é um aplicativo de avaliação de refeições criado para restaurantes universitários.
 
-Com o MeForma! você registra as horas e disciplinas que já cumpriu e vê a sua situação até atingir 100% de conclusão de curso.
+A intenção do R-you, além de aproximar estudantes e administradores, é gerar dados que permitam que os administradores dos restaurantes possam ter uma melhor noção sobre o que os estudantes preferem comer, ou o quanto estão satisfeitos com as refeições servidas.
 
-Uma plataforma prática e bonita, desenvolvida para substituir anotações e planilhas exaustivas e confusas, com dados baseados em fontes oficiais da sua universidade, e não em boca a boca de veterano! :D
+Dentre as vantagens que o aplicativo trás para os estudantes, podemos citar que o estudante poderá saber o cardápio do dia antes mesmo de chegar até o RU ;).
